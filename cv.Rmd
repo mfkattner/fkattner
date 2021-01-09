@@ -70,12 +70,13 @@ output: html_document
 <col style="width:85%">
 <tr>
   <td>**2020**</td>
-  <td>Senior Lecturer in Cognitive Psychology, Northumbria University, Newcasle upon Tyne, UK (declined)</td>
+  <td>Professor for General Psychology (Allgemeine Psychologie), Health and Medical University Potsdam, Germany (accepted)</td>
 </tr>
 <tr>
   <td></td>
-  <td>Professor for General Psychology, Health and Medical University Potsdam, Germany (accepted)</td>
+  <td>Senior Lecturer for Cognitive Psychology, Northumbria University, Newcasle upon Tyne, UK (declined)</td>
 </tr>
+
 </table>
 
 <br>
