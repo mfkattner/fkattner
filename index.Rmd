@@ -17,7 +17,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-8">
 
-# **Florian Kattner - personal website**
+# **Florian Kattner**
 
 ### [Applied Cognitive Psychology Lab](https://www.kog.psychologie.tu-darmstadt.de/mitarbeiter_1/kattner/kattner.en.jsp)<br>Institute of Psychology<br>Technical University of Darmstadt
 
