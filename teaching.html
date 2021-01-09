@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Teaching</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Florian Kattner</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Teaching</h1>
+
+</div>
+
+
+<div id="courses-and-lectures" class="section level1 tabset">
+<h1><strong>Courses and Lectures</strong></h1>
+<div id="hmu-potsdam" class="section level2">
+<h2><em>HMU Potsdam</em></h2>
+</div>
+<div id="tu-darmstadt" class="section level2">
+<h2><em>TU Darmstadt</em></h2>
+<ul>
+<li><em>Experimentalpsychologisches Praktikum</em> [Sommer 2008 – Winter 2020/21]</li>
+<li>Seminar <em>Allgemeine Psychologie I</em> (Wahrnehmung, Aufmerksamkeit, Lernen, Gedächtnis) [Winter 2007/08 – Sommer 2017]</li>
+<li>Vorlesung <em>Allgemeine Psychologie II</em> (Motivation und Emotion) [Winter 2016/17]</li>
+<li>Übing <em>Computergestützte Datenanalyse</em> (Statistik II) [Sommer 2016]</li>
+<li>Vorlesung <em>Allgemeine Psychologie II</em> (Sprache und Denken) [Winter 2012/13]</li>
+<li>Seminar <em>Differenzielle Psychologie</em> (Persönlichkeitstheorien, Intelligenz) [Winter 2011/12]</li>
+<li>Programmierkurs <em>Matlab</em> (Psychophysics Toolbox) [Winter 2010/11, Sommer 2013]</li>
+<li>Übung <em>Allgemeine Psychologie I</em> (Psychophysik, Simulation von Wahrnehmung und Lernen) [Sommer 2008 – Sommer 2013]</li>
+<li>Seminar <em>Kognitive Psychologie</em> (Modelle der Kognition) (Sommer 2008, Summer 2010)</li>
+<li>Übung <em>Kognitive Psychologie</em> [Sommer 2008]</li>
+</ul>
+</div>
+<div id="u-hamburg" class="section level2">
+<h2><em>U Hamburg</em></h2>
+<ul>
+<li>Seminar <em>Allgemeine Psychologie I</em> (Wahrnehmung, Sprache, Denken) [Sommer 2019]</li>
+<li>Seminar <em>Auditory attention and working memory</em> (Wahlbereich, M.Sc. Psychologie) [Sommer 2019]</li>
+<li>Vorlesung <em>Allgemeine Psychologie I</em> (Psychophysik, Wahrnehmung, Aufmerksamkeit) [Winter 2018/19]</li>
+<li>Übung <em>Allgemeine Psychologie I</em> (Methoden der Psychophysik, Simulation perzeptueller Mechanismen) [Winter 2018/19]</li>
+</ul>
+</div>
+<div id="u-kassel" class="section level2">
+<h2><em>U Kassel</em></h2>
+<ul>
+<li>Vorlesung <em>Allgemeine Psychologie I</em> (Psychophysik, Wahrnehmung, Aufmerksamkeit, Gedächtnis) [Winter 2017/18]</li>
+<li>Vertiefungsseminar <em>Allgemeine Psychologie I</em> (Wahrnehmung + Gedächtnis, englischsprachig) [Winter 2017/18]</li>
+<li>Zusatzseminar <em>Biologische Psychologie</em> (Neuronale Plastizität) [Winter 2017/18] Seminar <em>Recherche, methodenkritisches Lesen und Verfassen empirisch-psychologischer Arbeiten</em> (Blockveranstaltung) [Winter 2017/18]</li>
+<li>Vorlesung <em>Kognition, Bildung, Entwicklung</em> [Winter 2017/18, Teil “Kognition”]</li>
+</ul>
+</div>
+<div id="uw-madison" class="section level2">
+<h2><em>UW Madison</em></h2>
+<ul>
+<li>Programming course <em>Psychophysics Toolbox for Matlab</em> [Spring 2015, Fall 2014]</li>
+</ul>
+</div>
+</div>
+<div id="thesis-supervision" class="section level1 tabset">
+<h1><strong>Thesis supervision</strong></h1>
+<div id="section" class="section level2">
+<h2><em>2020</em></h2>
+<ul>
+<li>Abdulhanan Othman (B.Sc. Psych.) <em>Perzeptuelles Lernen der Unterscheidung von Tonkomplexen</em>.</li>
+<li>Dina Grinstein (B.Sc. Psych.). <em>Mediennutzung in der Corona-Krise Die Rolle von Persönlichkeit und Coping</em>.</li>
+<li>Saskia Westerweller (B.Sc. Psych.). <em>Wie evaluative Konditionierung die visuelle Aufmerksamkeit beeinflusst</em>.</li>
+<li>Linda Paul (B.Sc. Psych.). <em>Aufmerksamkeitsablenkung oder mehr? Untersuchung des Irrelevant-Speech-Effekts mit einer komplexen Gedächtnisspannenaufgabe</em>.</li>
+<li>Johanna Schießl (B.Sc. Psych.). <em>Training der Arbeitsgedächtniskapazität mit einer dualen “n-back-Aufgabe”: Auswirkungen auf Störschallresilienz und fluide Intelligenz</em>.</li>
+<li>Sophia Pieronczyk &amp; Michael Kaul (B.Sc. Psych.). <em>Der Einfluss eines Aufmerksamkeitstrainings auf den Changing-State-Effekt und die fluide Intelligenz</em>.</li>
+<li>Katharina Behler (B.Sc. Psych). <em>Hilfesuchverhalten und Depressivität von Schülerinnen und Schülern: Evaluation eines Suizidpräventionstrainings des Projektes SAVE</em></li>
+<li>Zarina Catar (B.Sc. Psych.). <em>Bilingualism and cognitive control: Differences in task switching and the auditory distraction</em>.</li>
+<li>Yannik Mannet (B.Sc. Psych.). <em>Evaluation einer Lehrkräftefortbildung zur Suizidprävention. Können Lehrkräfte ihre Handlungskompetenz im Umgang mit suizidalen Schülerinnen und Schülern verbessern?</em></li>
+<li>Sarah Hanl (M.Sc. Psych.). <em>Aufmerksamkeitsorientierung vs. Duplex-Mechanismus: Eine neue Methode zur Untersuchung des Irrelevant Speech Effekts</em>.</li>
+</ul>
+</div>
+<div id="section-1" class="section level2">
+<h2><em>2019</em></h2>
+<ul>
+<li>Hanna Meinhardt (B.Sc. Psych., U Hamburg). <em>Einfluss von Hintergrundschall und musikalischer Expertise auf das verbale und musikalische Kurzzeitgedächtnis</em>.</li>
+<li>Dustin Fleckenstein (M.Sc. Psych.). <em>Effects of evaluative conditioning on early sensory processing</em>.</li>
+<li>Karla Salazar (M.Sc. Psych.). <em>Effekte evaluativer Konditionierung auf das ikonische Gedächtnis</em>.</li>
+<li>Celine Saul (B.Sc. Psych.). <em>Elektrophysiologische Korrelate evaluativer Konditionierung</em>.</li>
+<li>Michael Kreis (M.Sc. Psych.). <em>Manche mögens laut: Eine psychophysiologische Untersuchung zur Lästigkeit von Verkehrslärm unter Berücksichtigung interindividueller Unterschiede</em>.</li>
+<li>Anika Raum (B.Sc. Psych.). <em>Cross-modale Kommutativität der Größenherstellungen von Lautstärke und Helligkeit</em>.</li>
+</ul>
+</div>
+<div id="section-2" class="section level2">
+<h2><em>2018</em></h2>
+<ul>
+<li>Stefan Coels (B.Sc. Psych.). <em>Training des verbalen Kurzzeitgedächtnisses: Hilft ein dichotisches Gedächtnistraining gegen die störende Wirkung irrelevanter Sprache?</em></li>
+<li>Ewald Klippenstein (M.Sc. Psych.). <em>Lästigkeitsbewertung und physiologische Reaktion auf Verkehrslärm bei Bearbeitung einer Aufmerksamkeitsaufgabe</em>.</li>
+<li>Corinne Orlemann (B.Sc. Psych.). <em>Emotional working memory: Processing of affective intonations in the n-back paradigm</em>.</li>
+<li>Larissa Samaan (B.Sc. Psych.). <em>Effects of an auditory task switching training on cognitive functions</em>.</li>
+<li>Tim Schmidt (B.Sc. Psych. in IT). <em>Faktoren des Kindchenschemas: Gewichtung von Merkmalen in der Gesichtswahrnehmung</em>.</li>
+<li>Babette Dürrenberg &amp; Andrea Elzenbeck (M.Sc. Psych.). <em>Affektive Bewertung und Psychoakustik von Spielzeuggeräuschen</em>.</li>
+</ul>
+</div>
+<div id="section-3" class="section level2">
+<h2><em>2017</em></h2>
+<ul>
+<li>Maria Hernando (M.Sc. Psych.). <em>Development and Effectiveness Evaluation of a Human Machine Interface for Start-Stop Coasting</em>.</li>
+<li>Sarah Hanl (B.Sc. Psych.). <em>Beeinträchtigung der Gedächtnisleistung durch emotional gefärbte Hintergrundsprache</em>.</li>
+<li>Karla Salazar (B.Sc. Psych.). <em>Welche Eigenschaften von Sprache beeinträchtigen die Erinnerungsleistung? Ein Experiment mit aufgabenirrelevanten, lokal-invertierten Schallen</em>.</li>
+<li>Samuel Zeuch (M.Sc. Psych.). <em>Detektion wahrer, falscher und vorgetäuschter Intentionen im Mock-Crime-Paradigma anhand des autobiographischen, impliziten Assoziationstests</em>.</li>
+<li>Annika Schupp (B.Sc. Psych.). <em>Effekte evaluativer Konditionierung auf das ikonische Gedächtnis</em>.</li>
+<li>Sina Zimmermann (B.Sc. Psych.). <em>Einfluss der Aufgabenstellung auf die Transferleistung beim Kategorienlernen</em>.</li>
+</ul>
+</div>
+<div id="section-4" class="section level2">
+<h2><em>2016</em></h2>
+<ul>
+<li>Stephan Daebler (B.Sc. Psych.). <em>Verständlichkeit von zeitlich segmentierter und rückwaerts dargebotener Sprache</em>.</li>
+<li>Lena Faust (B.Sc. Psych.). <em>Der Einfluss von evaluativer Konditionierung auf die visuelle Aufmerksamkeit: Effekte auf das “Useful Field of View”</em>.</li>
+<li>Kyra Wange (B.Sc. Psych.). <em>Beeinflusst evaluative Konditionierung die visuelle Aufmerksamkeit?</em></li>
+</ul>
+</div>
+<div id="section-5" class="section level2">
+<h2><em>2015</em></h2>
+<ul>
+<li>Sebastian Warda (M.Sc. Psych.). <em>Therapieevaluation der multimodalen Psychotherapie für Tinnituspatienten der Tagesklinik Ulmenhof</em>.</li>
+</ul>
+</div>
+<div id="section-6" class="section level2">
+<h2><em>2014</em></h2>
+<ul>
+<li>Hazar Haj (B.Sc. Psych.). <em>Hysteresis in magnitude production of pitch intervals</em>.</li>
+<li>Sebastian Warda (B.Sc. Psych.). <em>Lateralisierung dichotischer Verarbeitung von Sprache, komplexen Tönen und Melodie</em>.</li>
+<li>Payden White (Biology – Section 313, University of Wisconsin-Madison). <em>Blocking effects present in evaluative conditioning through automatic association formation</em>.</li>
+<li>Samuel Zeuch (B.Sc. Psych.). <em>Kontextabhängige Entscheidungsfehler beim prädiktiven Lernen</em>.</li>
+</ul>
+</div>
+<div id="section-7" class="section level2">
+<h2><em>2013</em></h2>
+<ul>
+<li>Josephine Berger &amp; Christopher-John Gawe (B.Sc. Psych.). <em>Auditive Verarbeitung irrelevanter Sprache bei blinden und sehenden Menschen</em>.</li>
+<li>Sabrina Köhler (B.Sc. Psych.). <em>Evaluatives Konditionieren: Sind gelernte Assoziationen wirklich löschungsresistent?</em></li>
+</ul>
+</div>
+<div id="section-8" class="section level2">
+<h2><em>2012</em></h2>
+<ul>
+<li>Corinna Lohrey (B.Sc. Psych.). <em>Lateralitätseffekte bei der Verarbeitung irrelevanter Sprache</em>.</li>
+<li>Anna-Livia Meimbresse (B.Sc. Psych.). <em>Ist Evaluatives Konditionieren wirklich löschungsresistent? Der Einfluss von Baseline-Ratings</em>.</li>
+<li>Nikolas Suchhardt (Dipl.-Biol.). <em>Contiguity and contingency awareness in evaluative delay- and trace conditioning</em>.</li>
+</ul>
+</div>
+<div id="section-9" class="section level2">
+<h2><em>2011</em></h2>
+<ul>
+<li>Jana Birkenbusch (B.Sc. Psych.). <em>The influence of stimulus properties in contingency learning</em>.</li>
+<li>Rabia Tittus (B.Sc. Psych.). <em>Subliminales Priming evaluativer Reaktionen und der Einfluss auf die Wiedererkennungsleistung</em>.</li>
+<li>Christian Wieser (B.Sc. Psych.). <em>Störung des Arbeitsgedächtnisses durch emotional intonierte chinesische Sprache</em>.</li>
+</ul>
+</div>
+<div id="section-10" class="section level2">
+<h2><em>2010</em></h2>
+<ul>
+<li>Fabian Nguyen (B.Sc. Psych.). <em>Evaluative Konditionierung durch computervermittelte Medien</em>.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
