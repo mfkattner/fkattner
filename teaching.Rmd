@@ -3,6 +3,8 @@ title: "Teaching"
 output: html_document
 ---
 
+<br>
+
 # **Courses and Lectures** {.tabset}
 
 ## *HMU Potsdam*
@@ -38,6 +40,8 @@ output: html_document
 
 - Programming course *Psychophysics Toolbox for Matlab* [Spring 2015, Fall 2014]
     
+<br>
+
 # **Thesis supervision** {.tabset}
 
 ## *2020*
