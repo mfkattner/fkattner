@@ -1,7 +1,7 @@
 ---
+output_dir: "."
 navbar:
   title: "Florian Kattner"
-  output_dir: "."
   left:
     - text: "Home"
       href: index.html

@@ -25,15 +25,20 @@ output: html_document
 
 [Google Scholar](https://scholar.google.de/citations?user=B9XMk0cAAAAJ&hl=de), [ORCID ID](https://orcid.org/0000-0003-2124-2829), [ResearchGate](https://www.researchgate.net/profile/Florian_Kattner)
 
-# **Research Interests**
+</div>
+<div class="col-sm-4">
+
+![](img/CROPPED-27-00083.jpg)
+</div>
+
+# **Research Interests** {.tabset}
 
 My research focuses on auditory perception, learning, and cognition. In particular, I am interested in how humans process sound that is irrelevant to the current goals, and how this depends on sensory and cognitive processing skills. In this regard, I am also studying the relation between specific sound properties (e.g., loudness, pitch or fluctuation strength) and psychological parameters such as subjective evaluations (e.g., liking, annoyance, or unpleasantness) and cognitive performance (e.g., speech intelligibility or working memory). To quantify the degree of irrelevant sound processing, I look specifically at the degree of disruption that is produced by the sound in a cognitive task, and I also study how learning affects these disruptions. In the field of learning, I am also interested more generally in the transfer of perceptual and associative learning to new tasks and stimuli, as well as in the relationship between evaluative conditioning and cognitive and perceptual processing. In addition to these learning studies, I am working on methodological questions in the field of psychophysical measurement.
 
-# {.tabset}
 
 ## *Auditory Cognition*
 
-Using the classical “irrelevant sound paradigm”, I am investigating the disruptive effects of background sound on cognitive performance, such as the memorization of verbal items. In particular, I am interested in the properties of sounds (e.g., phonological integrity) that interfere with specific processes during the retention of verbal information. In addition, I am interesting in the role of auditory selective attention, with some studies indicating that enhanced attentional resources may shield against auditory distraction. To study the relationship between auditory processing and attention, I have also used dual-task paradigms, revealing dissociations between central attention and auditory attention.
+Using the classical “irrelevant sound paradigm”, I am investigating the disruptive effects of background sound on cognitive performance, such as the memorization of verbal items. In particular, I am interested in (a) the properties of sounds (e.g., phonological integrity) that interfere with specific processes during the retention of verbal information, (b) the tasks that are most susceptible to certain types of auditory distractors, and (c) the role of auditory selective attention and cognitive control. 
 
 ## *Learning and Transfer*
 
@@ -50,8 +55,4 @@ In the field of evaluative conditioning (i.e., affective-evaluative change resul
 I am also interested in the evaluation and development of psychophysical methods. In the field of measurement theory, I have contributed to our understanding of direct scaling methods with sensory attributes that may not necessarily be represented on a linear scale (e.g. pitch perception). In addition, I have been working on psychometric fitting procedures to account for the ongoing change of underlying parameters (e.g., due to learning).
 
 
-</div>
-<div class="col-sm-4">
 
-![](img/CROPPED-27-00083.jpg)
-</div>
