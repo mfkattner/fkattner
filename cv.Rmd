@@ -1,0 +1,106 @@
+---
+title: "CV"
+output: html_document
+---
+
+
+# **Professional Experience**
+
+<table>
+<col style="width:20%">
+<col style="width:80%">
+<tr>
+  <td> **since 04.2021**</td>
+  <td>Professor for General Psychology (Allgemeine Psychologie), Faculty of Health, Health and Medical University Potsdam</td>
+</tr>
+<tr>
+  <td>**11.2020 - 03.2021**</td>
+  <td>Principal Investigator (DFG grant), Applied Cognitive Psychology Lab, Technical University of Darmstadt</td>
+</tr>
+<tr>
+  <td>**04.2016 - 10.2020**</td>
+  <td>Postdoctoral Researcher and Lecturer, Applied Cognitive Psychology Lab, Technical University of Darmstadt</td>
+</tr>
+<tr>
+  <td>**10.2018 - 09.2019**</td>
+  <td>Substitute Professor for Experimental Psychology (Allgemeine Psychologie), University of Hamburg</td>
+</tr>
+<tr>
+  <td>**10.2017 - 03.2018**</td>
+  <td>Substitute Professor for Experimental Psychology (Allgemeine Psychologie), University of Kassel</td>
+</tr>
+<tr>
+  <td>**04.2014 - 03.2016**</td>
+  <td>Postdoctoral Research Scholar, Learning and Transfer Lab (C. Shawn Green), University of Wisconsin-Madison</td>
+</tr>
+<tr>
+  <td>**06.2011 - 03.2014**</td>
+  <td>Postdoctoral Researcher and Lecturer, Applied Cognitive Psychology Lab (Wolfgang Ellermeier), TTechnical University of Darmstadt</td>
+</tr>
+<tr>
+  <td>**11.2007 - 06.2011**</td>
+  <td>Doctoral student, Applied Cognitive Psychology Lab (PhD supervisor: Wolfgang Ellermeier), Technical University of Darmstadt</td>
+</tr>
+</table>
+
+# **Education**
+
+<table>
+<col style="width:20%">
+<col style="width:80%">
+<tr>
+  <td>**07.2011**</td>
+  <td>PhD in Psychology (Dr. rer. nat.), Technical University of Darmstadt</td>
+</tr>
+<tr>
+  <td>**09.2007**</td>
+  <td>Diploma in Psychology (Dipl.-Psych.), University of Regensburg</td>
+</tr>
+</table>
+
+# **Offered Faculty Positions**
+
+<table>
+<col style="width:10%">
+<col style="width:90%">
+<tr>
+  <td>**2020**</td>
+  <td>Senior Lecturer in Cognitive Psychology, Northumbria University, Newcasle upon Tyne, UK (declined)</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Professor for General Psychology, Health and Medical University Potsdam, Germany (accepted)</td>
+</tr>
+</table>
+
+# **Funding and Awards**
+
+<table>
+<tr>
+  <td>**2021**</td>
+  <td>Research Grant (PI), German Research Foundation (DFG), project number 399243066, Effects of evaluative conditioning on early sensory processing, extension for 3 months</td>
+</tr>
+<tr>
+  <td>**2020 - 2023**</td>
+  <td>Research Grant (PI), German Research Foundation (DFG), project number 421966099, Perceptual and cognitive control of auditory distraction, funding available for 36 months</td>
+</tr>
+<tr>
+  <td>**2018 - 2021**</td>
+  <td>Research Grant (PI), German Research Foundation (DFG), project number 399243066,, Effects of evaluative conditioning on early sensory processing, funding available for 30 months</td>
+</tr>
+<tr>
+  <td>**2012**</td>
+  <td>Travel Award for “Fechner Day 2012” in Ottawa, Canada, International Society for Psychophysics</td>
+</tr>
+<tr>
+  <td>**2010**</td>
+  <td>Award for “special achievements in academic teaching”, Vereinigung von Freunden der Technischen Universität zu Darmstadt e.V. (Ernst-Ludwigs Hochschulgesellschaft)</td>
+</tr>
+</table>
+
+
+# **Reviewer Activity**
+
+*Acta Psychologica; Behavioural Processes; Cognition and Emotion; Computers in Human Behavior; Deutsche Forschungsgemeinschaft (DFG);
+Frontiers in Psychiatry; Journal of Cognitive Psychology; Journal of Experimental Psychology: General; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of Experimental Social Psychology; Journal of Mathematical Psychology; Journal of Personality;
+Learning and Behavior; Learning and Motivation; PLoS ONE; Psychological Research; Psychology of Music; Psychoneuroendocrinology; Social Cognition; Social Psychological and Personality Science; Quarterly Journal of Experimental Psychology*
