@@ -28,7 +28,7 @@ output: html_document
 </div>
 <div class="col-sm-4">
 
-![](img/CROPPED-27-00083.jpg)
+![](img/foto_fk.jpg)
 </div>
 
 # **Research Interests** {.tabset}
