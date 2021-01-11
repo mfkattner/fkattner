@@ -10,10 +10,12 @@ output: html_document
 <table>
 <col style="width:20%">
 <col style="width:80%">
-<tr>
-  <td> **since 04.2021**</td>
-  <td>Professor for General Psychology (Allgemeine Psychologie), Faculty of Health, Health and Medical University Potsdam</td>
-</tr>
+---
+#<tr>
+#  <td> **since 04.2021**</td>
+#  <td>Professor for General Psychology (Allgemeine Psychologie), Faculty of Health, Health and Medical University Potsdam</td>
+#</tr>
+---
 <tr>
   <td>**11.2020 - 03.2021**</td>
   <td>Principal Investigator (DFG grant), Applied Cognitive Psychology Lab, Technical University of Darmstadt</td>
@@ -63,8 +65,8 @@ output: html_document
 
 <br>
 
+---
 # **Offered Faculty Positions**
-
 <table>
 <col style="width:15%">
 <col style="width:85%">
@@ -76,10 +78,10 @@ output: html_document
   <td></td>
   <td>Senior Lecturer for Cognitive Psychology, Northumbria University, Newcasle upon Tyne, UK (declined)</td>
 </tr>
-
 </table>
 
 <br>
+---
 
 # **Funding and Awards**
 
