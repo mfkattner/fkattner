@@ -1,11 +1,13 @@
 ---
-title: "CV"
-output: html_document
+title: "<center>CV</center>"
+output: 
+  html_document:
+    css: "style.css"
 ---
 
 <br>
 
-# **Professional Experience**
+## **Professional Experience**
 
 <table>
 <col style="width:20%">
@@ -17,7 +19,7 @@ output: html_document
 #</tr>
 ---
 <tr>
-  <td>**11.2020 - 03.2021**</td>
+  <td>**since 11.2020**</td>
   <td>Principal Investigator (DFG grant), Applied Cognitive Psychology Lab, Technical University of Darmstadt</td>
 </tr>
 <tr>
@@ -48,11 +50,19 @@ output: html_document
 
 <br>
 
-# **Education**
+## **Education**
+
+<!--
+| | |
+| -------------: | ------------------------------------| --------------------------------- |
+| **07.2011**   | PhD in Psychology (Dr. rer. nat.)   | Technical University of Darmstadt |
+| **09.2007**   | Diploma in Psychology (Dipl.-Psych.)| University of Regensburg |
+| | |
+-->
 
 <table>
-<col style="width:15%">
-<col style="width:85%">
+<col style="width:20%">
+<col style="width:80%">
 <tr>
   <td>**07.2011**</td>
   <td>PhD in Psychology (Dr. rer. nat.), Technical University of Darmstadt</td>
@@ -65,8 +75,8 @@ output: html_document
 
 <br>
 
----
-# **Offered Faculty Positions**
+<!--
+## **Offered Faculty Positions**
 <table>
 <col style="width:15%">
 <col style="width:85%">
@@ -79,11 +89,9 @@ output: html_document
   <td>Senior Lecturer for Cognitive Psychology, Northumbria University, Newcasle upon Tyne, UK (declined)</td>
 </tr>
 </table>
+-->
 
-<br>
----
-
-# **Funding and Awards**
+## **Funding and Awards**
 
 <table>
 <col style="width:15%">
@@ -112,7 +120,7 @@ output: html_document
 
 <br>
 
-# **Reviewer Activity**
+## **Reviewer Activity**
 
 *Acta Psychologica; Behavioural Processes; Cognition and Emotion; Computers in Human Behavior; Deutsche Forschungsgemeinschaft (DFG);
 Frontiers in Psychiatry; Journal of Cognitive Psychology; Journal of Experimental Psychology: General; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of Experimental Social Psychology; Journal of Mathematical Psychology; Journal of Personality;

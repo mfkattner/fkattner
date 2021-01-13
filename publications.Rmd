@@ -1,6 +1,8 @@
 ---
-title: "Publications"
-output: html_document
+title: "<center>Publications</center>"
+output: 
+  html_document:
+    css: "style.css"
 ---
 
 # {.tabset}
