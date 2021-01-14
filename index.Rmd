@@ -28,7 +28,7 @@ output:
 
 <div class="col-sm-4">
 
-![](img/foto_fk_bw.jpg)
+![](img/foto_fk_bw_circle.png)
 
 </div>
 

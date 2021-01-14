@@ -1,5 +1,5 @@
 ---
-title: "<center>CV</center>"
+title: "CV"
 output: 
   html_document:
     css: "style.css"
