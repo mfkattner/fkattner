@@ -24,3 +24,9 @@ h3 {
   padding-bottom: 12px;
   border-bottom: 1px solid #cccccc;
 }
+
+nav {
+  width: 100vw;
+  background-color: #FF3961;
+  color: #000000;
+}

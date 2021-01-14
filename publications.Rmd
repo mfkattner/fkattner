@@ -2,7 +2,7 @@
 title: "Publications"
 output: 
   html_document:
-    css: "style.css"
+    theme: sandstone
 ---
 
 # {.tabset}

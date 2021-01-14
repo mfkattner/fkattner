@@ -2,7 +2,7 @@
 theme: jekyll-theme-midnight
 output_dir: "."
 navbar:
-  title: ""
+  title: "Florian Kattner"
   left:
     - text: "Home"
       href: index.html

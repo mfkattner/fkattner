@@ -3,7 +3,7 @@ title: "Home"
 layout: "default"
 output: 
   html_document:
-    css: "style.css"
+    theme: sandstone
 ---
 
 <style>
@@ -12,9 +12,10 @@ output:
 }
 </style>
 
+<div class="row">
 <div class="col-sm-8">
 
-# **Florian Kattner**
+## **Dr. Florian Kattner**
 
 <!--
 ### Professur für Allgemeine Psychologie<br>Faculty of Health<br>[_Health and Medical University Potsdam_](https://www.health-and-medical-university.de/)
@@ -22,15 +23,22 @@ output:
 
 ### [Applied Cognitive Psychology](https://www.kog.psychologie.tu-darmstadt.de/mitarbeiter_1/kattner/kattner.en.jsp)<br>Institute for Psychology<br>_Technical University of Darmstadt_
 
+#### &#128231; florian.kattner@tu-darmstadt.de
+
+#### &#128234; Alexanderstr. 10, 64289 Darmstadt, Germany
+
+#### &#128222; 06151-16-24014
+
 [Google Scholar](https://scholar.google.de/citations?user=B9XMk0cAAAAJ&hl=de), [ORCID ID](https://orcid.org/0000-0003-2124-2829), [ResearchGate](https://www.researchgate.net/profile/Florian_Kattner)
 
 </div>
 
-<div class="col-sm-4">
-
+<div class="col-sm-3">
+<br>
 ![](img/foto_fk_bw_circle.png)
-
 </div>
+</div>
+
 
 
 ## **Research Interests** {.tabset}
