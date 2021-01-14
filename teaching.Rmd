@@ -50,7 +50,7 @@ output:
 
 ### *2020*
 
-- Abdulhanan Othman (B.Sc. Psych.) *Perzeptuelles Lernen der Unterscheidung von Tonkomplexen*.
+- Abdulhanan Othman & Bashar Shikho (B.Sc. Psych.) *Perzeptuelles Lernen der Unterscheidung von Tonkomplexen*.
 - Dina Grinstein (B.Sc. Psych.). *Mediennutzung in der Corona-Krise Die Rolle von Persönlichkeit und Coping*.
 - Saskia Westerweller (B.Sc. Psych.). *Wie evaluative Konditionierung die visuelle Aufmerksamkeit beeinflusst*.
 -	Linda Paul (B.Sc. Psych.). *Aufmerksamkeitsablenkung oder mehr? Untersuchung des Irrelevant-Speech-Effekts mit einer komplexen Gedächtnisspannenaufgabe*.
