@@ -6,7 +6,11 @@ output:
     theme: sandstone
 ---
 
-
+<style>
+.title {
+  display: none;
+}
+</style>
 
 <div class="row">
 <div class="col-sm-8">
@@ -17,11 +21,11 @@ output:
 ### Professur für Allgemeine Psychologie<br>Faculty of Health<br>[_Health and Medical University Potsdam_](https://www.health-and-medical-university.de/)
 -->
 
-### [Applied Cognitive Psychology](https://www.kog.psychologie.tu-darmstadt.de/mitarbeiter_1/kattner/kattner.en.jsp)<br>Institute for Psychology<br>_Technical University of Darmstadt_
+### _Technical University of Darmstadt_<br>Institute for Psychology<br>[Applied Cognitive Psychology](https://www.kog.psychologie.tu-darmstadt.de/mitarbeiter_1/kattner/kattner.en.jsp)
+
+#### &#128234; Alexanderstr. 10, 64283 Darmstadt, Germany
 
 #### &#128231; florian.kattner@tu-darmstadt.de
-
-#### &#128234; Alexanderstr. 10, 64289 Darmstadt, Germany
 
 #### &#128222; 06151-16-24014
 
