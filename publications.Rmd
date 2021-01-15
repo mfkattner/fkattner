@@ -11,7 +11,7 @@ output:
 
 ### **2021**
 
-**Kattner, F.** (2021). Transfer of working memory training to the inhibitory control of auditory distraction. *Psychological Research*. doi: 10.1007/s00426-020-01468-0
+**Kattner, F.** (2021). Transfer of working memory training to the inhibitory control of auditory distraction. *Psychological Research*. doi: [10.1007/s00426-020-01468-0](https://link.springer.com/article/10.1007/s00426-020-01468-0)
 
 ### **2020**
 
