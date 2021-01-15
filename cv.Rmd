@@ -7,9 +7,9 @@ output:
 
 ## **Professional Experience**
 
-<table>
-<col style="width:25%">
-<col style="width:75%">
+<table class="table table-hover">
+<col style="width:20%">
+<col style="width:80%">
 ---
 #<tr>
 #  <td> **since 04.2021**</td>
@@ -58,7 +58,7 @@ output:
 | | |
 -->
 
-<table>
+<table class="table table-hover">
 <col style="width:20%">
 <col style="width:80%">
 <tr>
@@ -91,9 +91,9 @@ output:
 
 ## **Funding and Awards**
 
-<table>
-<col style="width:15%">
-<col style="width:85%">
+<table class="table table-hover">
+<col style="width:20%">
+<col style="width:80%">
 <tr>
   <td>**2021**</td>
   <td>Research Grant (PI), German Research Foundation (DFG), project number 399243066, Effects of evaluative conditioning on early sensory processing, extension for 3 months</td>
