@@ -27,7 +27,7 @@ In the field of learning, I am interested in the degree of transfer of perceptua
 Specifically, I am studying the structural properties of learning tasks that enable the acquisition of knowledge and skills, which generalize to new tasks and stimuli. Typically, it has been found that the learning rate is increased for stimuli, which had been experienced as predictive in previous learning stages (e.g., Kattner, 2015, _L&B_). However, in a study on rule-based category learning, we observed that transfer to new stimulus exemplars also depends on the exact training task, with category identification producing more transfer than category discrimination. These findings suggest that transfer may be a function of whether the training task fosters the acquisition of stimulus-specific or generalized decision rules.
 
 <center>
-![](img/LP01_gabor_overall.jpg){width=75%}
+![](img/bctransfer.jpg){width=75%}
 </center>
 
 I am also interested in the effects of (1) extensive training with cognitively demanding tasks (e.g., task-switching or working-memory updating; Kattner et al., 2019, _M&C_) and (2) more joyful activities such as playing video games (Dale et al., 2020, _PPMC_). In both fields, I aim to identify the exact task mechanics, and the cognitive and perceptual demands, that may be responsible for the beneficial effects on attention and cognition, as well as (in case of certain types of video games) for the detrimental effects such as the occurrence of addictive behavior.
