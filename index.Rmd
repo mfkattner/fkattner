@@ -29,9 +29,9 @@ output:
 
 #### &#128234; Alexanderstr. 10, 64283 Darmstadt, Germany
 
-#### &#128231; florian.kattner@tu-darmstadt.de
-
 #### &#128222; 06151-16-24014
+
+#### &#128231; florian.kattner@tu-darmstadt.de
 
 [Google Scholar](https://scholar.google.de/citations?user=B9XMk0cAAAAJ&hl=de), [ORCID ID](https://orcid.org/0000-0003-2124-2829), [ResearchGate](https://www.researchgate.net/profile/Florian_Kattner), [Loop](https://loop.frontiersin.org/people/501598/overview)
 
@@ -43,40 +43,34 @@ output:
 </div>
 </div>
 
+## **Research Interests**
 
+* **Auditory Cognition**
+  
+  + Auditory Attention
+  
+  + Irrelevant Sound Effects
+  
+  + Cognitive Control
+  
+  + Noise Sensitivity
 
-## **Research Interests** {.tabset}
+* **Learning and Transfer**
 
-My research focuses on auditory perception, learning, and cognition. In particular, I am interested in how humans process sound that is irrelevant to the current goals, and how this depends on sensory and cognitive processing skills. In this regard, I am also studying the relation between specific sound properties (e.g., loudness, pitch or fluctuation strength) and psychological parameters such as subjective evaluations (e.g., liking, annoyance, or unpleasantness) and cognitive performance (e.g., speech intelligibility or working memory). To quantify the degree of irrelevant sound processing, I look specifically at the degree of disruption that is produced by the sound in a cognitive task, and I also study how learning affects these disruptions. In the field of learning, I am also interested more generally in the transfer of perceptual and associative learning to new tasks and stimuli, as well as in the relationship between evaluative conditioning and cognitive and perceptual processing. In addition to these learning studies, I am working on methodological questions in the field of psychophysical measurement.
+  + Perceptual Learning
 
+  + Associative Learning
 
-### *Auditory Cognition*
+  + Evaluative Conditioning
+  
+  + Cognitive Training
+  
+* **Psychophysical Measurement**
 
-Using the classical “irrelevant sound paradigm”, I am investigating the disruptive effects of background sound on cognitive performance, such as the memorization of verbal items. In particular, I am interested in (a) the properties of sounds (e.g., phonological integrity) that interfere with specific processes during the retention of verbal information and (b) the tasks that are most susceptible to certain types of auditory distractors. In a recent publication (Kattner & Ellermeier, 2018, _JEP:HPP_), for instance, we showed that the emotional prosody of irrelevant background speech (e.g., angry intonations) interfered specifically with short-term memory tasks that require serial-order processing, whereas a single auditory deviation in prosody disrupted performance also in a non-serial short-term memory task (the "missing-item task", see below). 
-
-<center>
-![](img/Fig4b_Prosody_Task.png){width=75%}
-</center>
-
-In addition, I am interested whether auditory distraction can be reduced through enhanced auditory selective attention or cognitive control. In this line of research, we were able to demonstrate that the disruptive effect of irrelevant speech on verbal short-term memory can be eliminated or attenuated in (a) blind listeners (Kattner & Ellermeier, 2014a, _QJEP_) as well as (b) sighted individuals whose auditory selective attention had been trained (Kattner & Ellermeier, 2020, _JEP:HPP_).
-
-### *Learning and Transfer*
-
-In a second line of research, I am studying the degree of transfer resulting from perceptual and associative learning. Specifically, I am interested in the structural properties of learning tasks that enable the acquisition of knowledge and skills, which generalize to new tasks and stimuli. Typically, it has been found that the learning rate is increased for stimuli, which had been experienced as predictive in previous learning stages (e.g., Kattner, 2015, _L&B_). However, in a study on rule-based category learning, we observed that transfer to new stimulus exemplars also depends on the exact training task, with category identification producing more transfer than category discrimination. These findings suggest that transfer may be a function of whether the training task fosters the acquisition of stimulus-specific or generalized decision rules.
-
-<center>
-![](img/LP01_gabor_overall.jpg){width=75%}
-</center>
-
-
-I am also interested in the effects of (1) extensive training with cognitively demanding tasks (e.g., task-switching or working-memory updating; Kattner et al., 2019, _M&C_) and (2) more joyful activities such as playing video games (Dale et al., 2020, _PPMC_). In both fields, I aim to identify the exact task mechanics, and the cognitive and perceptual demands, that may be responsible for the beneficial effects on attention and cognition, as well as (in case of certain types of video games) for the detrimental effects such as the occurrence of addictive behavior.
-
-In the field of evaluative conditioning (i.e., affective-evaluative change resulting from stimulus pairings), I am most interested in (a) the dependency of evaluative conditioning on cognitive resources (e.g., attention, cognitive control) and (b) the effects of evaluative conditioning on sensory processing (Kattner & Green, 2019). In addition, I have been studying effects of statistical contingency between conditioned and unconditioned stimuli – and the resulting subjective judgments of contigency – on the evaluative change (Kattner et al., 2012, _L&M_).
-
-### *Psychophysics*
-
-I am also interested in the evaluation and development of psychophysical methods. In the field of measurement theory, I have contributed to our understanding of direct scaling methods with sensory attributes that may not necessarily be represented on a linear scale (e.g., pitch perception; Kattner & Ellermeier,2014b, _AP&P_). In a prototypical pitch production experiment, participants are asked to adjust the frequency of a tone so that it subdivides a given pitch interval by a particular fraction (e.g., 1/2 or 2/3 of the interval). We were able to show that participants can make such adjustements on a ratio-scale level, fulfilling fundamental axioms of measurement such as commutativity (i.e., 1/2 x 2/3 = 2/3 x 1/2). In addition, I have been working on psychometric fitting procedures to account for the ongoing change of underlying parameters (e.g., due to learning; e.g., Kattner et al., 2017, _JoV_).
-
-<center>
-![](img/pitch_hyst.jpg){width=50%}
-</center>
+  + Axiomatic Theory of Measurement
+  
+  + Direct Scaling 
+  
+  + Paired Comparisosn
+  
+  + Psychometric Functions
