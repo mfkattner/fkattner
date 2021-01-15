@@ -71,6 +71,6 @@ output:
   
   + Direct Scaling 
   
-  + Paired Comparisosn
+  + Paired Comparisons
   
   + Psychometric Functions
