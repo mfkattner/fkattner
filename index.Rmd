@@ -51,7 +51,7 @@ output:
   
   + Irrelevant Sound Effects
   
-  + Cognitive Control
+  + Cognitive Sound Control
   
   + Noise Sensitivity
 
