@@ -2,7 +2,7 @@
 title: "Teaching"
 output: 
   html_document:
-    theme: sandstone
+    theme: flatly
 ---
 
 <br>

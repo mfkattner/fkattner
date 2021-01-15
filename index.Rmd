@@ -2,7 +2,7 @@
 title: "Home"
 output: 
   html_document:
-    theme: sandstone
+    theme: flatly
 ---
 
 <style>

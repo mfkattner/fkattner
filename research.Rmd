@@ -2,7 +2,7 @@
 title: "Research"
 output: 
   html_document:
-    theme: sandstone
+    theme: flatly
 ---
 
 <br>
