@@ -15,7 +15,7 @@ output:
 ---
 #<tr>
 #  <td> **since 04.2021**</td>
-#  <td>Professor for General Psychology (Allgemeine Psychologie), Faculty of Health, Health and Medical University Potsdam</td>
+#  <td>Professor of General Psychology (Allgemeine Psychologie), Faculty of Health, Health and Medical University Potsdam</td>
 #</tr>
 ---
 <tr>
@@ -28,11 +28,11 @@ output:
 </tr>
 <tr>
   <td>**10.2018 - 09.2019**</td>
-  <td>Substitute Professor for Experimental Psychology (Allgemeine Psychologie), University of Hamburg</td>
+  <td>Visting Professor of General Psychology (Vertretungsprofessur für Allgemeine Psychologie), University of Hamburg</td>
 </tr>
 <tr>
   <td>**10.2017 - 03.2018**</td>
-  <td>Substitute Professor for Experimental Psychology (Allgemeine Psychologie), University of Kassel</td>
+  <td>Visiting Professor of General Psychology (Vertretungsprofessur für Allgemeine Psychologie), University of Kassel</td>
 </tr>
 <tr>
   <td>**04.2014 - 03.2016**</td>
