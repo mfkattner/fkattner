@@ -5,8 +5,6 @@ output:
     theme: flatly
 ---
 
-<br>
-
 ## **Courses and Lectures** {.tabset}
 
 <!--

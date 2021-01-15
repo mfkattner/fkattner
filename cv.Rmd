@@ -5,8 +5,6 @@ output:
     theme: flatly
 ---
 
-<br>
-
 ## **Professional Experience**
 
 <table>
