@@ -34,15 +34,15 @@ output:
 </tr>
 <tr>
   <td>**04.2014 - 03.2016**</td>
-  <td>Postdoctoral Research Scholar, Learning and Transfer Lab (C. Shawn Green), University of Wisconsin-Madison</td>
+  <td>Postdoctoral Research Scholar, Learning and Transfer Lab (PI: C. Shawn Green), University of Wisconsin-Madison</td>
 </tr>
 <tr>
   <td>**06.2011 - 03.2014**</td>
-  <td>Postdoctoral Researcher and Lecturer, Applied Cognitive Psychology Lab (Wolfgang Ellermeier), Technical University of Darmstadt</td>
+  <td>Postdoctoral Researcher and Lecturer, Applied Cognitive Psychology Lab (Prof. Wolfgang Ellermeier), Technical University of Darmstadt</td>
 </tr>
 <tr>
   <td>**11.2007 - 06.2011**</td>
-  <td>Doctoral student, Applied Cognitive Psychology Lab (PhD supervisor: Wolfgang Ellermeier), Technical University of Darmstadt</td>
+  <td>Doctoral student, Applied Cognitive Psychology Lab (Prof. Wolfgang Ellermeier), Technical University of Darmstadt</td>
 </tr>
 </table>
 

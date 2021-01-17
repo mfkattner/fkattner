@@ -19,6 +19,8 @@ Using the classical “irrelevant sound paradigm”, I am investigating the disr
 
 In addition, I am interested whether auditory distraction can be reduced through enhanced auditory selective attention or cognitive control. In this line of research, we were able to demonstrate that the disruptive effect of irrelevant speech on verbal short-term memory can be eliminated or attenuated in (a) blind listeners (Kattner & Ellermeier, 2014a, _QJEP_) as well as (b) sighted individuals whose auditory selective attention had been trained (Kattner & Ellermeier, 2020, _JEP:HPP_).
 
+More recently, I have been studying the influence of auditory distractor stimuli on attention in a dual-task situation. Specifically, using an auditory search task in the "psychological refractory period" paradigm, we were able to show that auditory and central attention do not depend on the same central capacity limitations (Kattner & Reimer, 2020, _QJEP_). 
+
 #### Collaborators
 
 [Wolfgang Ellermeier, Technical University of Darmstadt](https://www.kog.psychologie.tu-darmstadt.de/mitarbeiter_1/ellermeier/ellermeier.en.jsp)
