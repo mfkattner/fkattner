@@ -21,9 +21,13 @@ In addition, I am interested whether auditory distraction can be reduced through
 
 More recently, I have been studying the influence of auditory distractor stimuli on attention in dual-task situations. Specifically, using an auditory search task in the "psychological refractory period" paradigm, we were able to show that auditory and central attention do not depend on the same central capacity limitations (Kattner & Reimer, 2020, _QJEP_). 
 
+#### **Participate**
+
+Click here to participate in a current study on verbal short-term memory in [English](https://www.psytoolkit.org/c/3.1.0/survey?s=Jyv8q) or [German](https://www.psytoolkit.org/c/3.1.0/survey?s=5WN2M).
+
 Click here to participate in a current study using the "auditory" search task in [English](https://www.psytoolkit.org/c/3.1.1/survey?s=DGZSN) or [German](https://www.psytoolkit.org/c/3.1.1/survey?s=Bzj4f).
 
-#### Collaborators
+#### **Collaborators**
 
 [Wolfgang Ellermeier, Technical University of Darmstadt](https://www.kog.psychologie.tu-darmstadt.de/mitarbeiter_1/ellermeier/ellermeier.en.jsp)
 
@@ -48,7 +52,11 @@ I am also interested in the effects of (1) extensive training with cognitively d
 
 In the field of evaluative conditioning (i.e., affective-evaluative change resulting from stimulus pairings), I am most interested in (a) the dependency of evaluative conditioning on cognitive resources (e.g., attention, cognitive control) and (b) the effects of evaluative conditioning on sensory processing (Kattner & Green, 2019). In addition, I have been studying effects of statistical contingency between conditioned and unconditioned stimuli – and the resulting subjective judgments of contigency – on the evaluative change (Kattner et al., 2012, _L&M_).
 
-#### Collaborators
+#### **Participate**
+
+[Click here to participate in  current study on category learning (in English).](https://www.psytoolkit.org/c/3.3.0/survey?s=U9JpZ)
+
+#### **Collaborators**
 
 [Anne Gast, University of Cologne](https://soccco.uni-koeln.de/anne-gast)
 

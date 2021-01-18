@@ -1,0 +1,50 @@
+---
+title: "Participate"
+output: 
+  html_document:
+    theme: flatly
+---
+
+
+*Participate in one of our current online studies:*
+
+<br>
+
+### **Verbal short-term memory**
+
++ sighted and visually impaired participants welcome
+
++ no hearing impairment
+
++ minimum age: 18 years
+
++ headphones and real keyboard required (does not work on tablet or phone)
+
++ [Link to English version](https://www.psytoolkit.org/c/3.1.0/survey?s=Jyv8q)
+
++ [Link to German version](https://www.psytoolkit.org/c/3.1.0/survey?s=5WN2M).
+
+
+### **Auditory attention**
+
++ normal or corrected-to-normal vision required
+
++ no hearing impairment
+
++ minimum age: 18 years
+
++ headphones required
+
++ [Link to English version](https://www.psytoolkit.org/c/3.1.1/survey?s=DGZSN) 
+
++ [Link to German version](https://www.psytoolkit.org/c/3.1.1/survey?s=Bzj4f).
+
+### **Catgegory learning**
+
++ normal or corrected-to-normal vision required
+
++ ages 18-60 years
+
++ real keyboard required (does not work on tablet or phone)
+
++ [Link to English version](https://www.psytoolkit.org/c/3.3.0/survey?s=U9JpZ)
