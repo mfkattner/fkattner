@@ -39,7 +39,7 @@ output:
 
 + [Link to German version](https://www.psytoolkit.org/c/3.1.1/survey?s=Bzj4f).
 
-### **Catgegory learning**
+### **Category learning**
 
 + normal or corrected-to-normal vision required
 
