@@ -6,19 +6,21 @@ output:
 ---
 
 
-*Participate in one of our current online studies:*
+# *... in one of our current online studies:*
 
 <br>
 
 ### **Verbal short-term memory**
 
-+ sighted and visually impaired participants welcome
+**_Sighted and visually impaired participants welcome!_**
+
+**Requirements:**
 
 + no hearing impairment
 
 + minimum age: 18 years
 
-+ headphones and real keyboard required (does not work on tablet or phone)
++ headphones and a real keyboard (does not work on tablet or phone)
 
 + [Link to English version](https://www.psytoolkit.org/c/3.1.0/survey?s=Jyv8q)
 
@@ -27,13 +29,15 @@ output:
 
 ### **Auditory attention**
 
-+ normal or corrected-to-normal vision required
+**Requirements:**
+
++ normal or corrected-to-normal vision
 
 + no hearing impairment
 
 + minimum age: 18 years
 
-+ headphones required
++ headphones and a real keyboard (does not work on tablet or phone)
 
 + [Link to English version](https://www.psytoolkit.org/c/3.1.1/survey?s=DGZSN) 
 
@@ -41,10 +45,28 @@ output:
 
 ### **Category learning**
 
-+ normal or corrected-to-normal vision required
+**Requirements:**
+
++ normal or corrected-to-normal vision
 
 + ages 18-60 years
 
-+ real keyboard required (does not work on tablet or phone)
++ a real keyboard (does not work on tablet or phone)
 
-+ [Link to English version](https://www.psytoolkit.org/c/3.3.0/survey?s=U9JpZ)
++ [Link to experiment (English)](https://www.psytoolkit.org/c/3.3.0/survey?s=U9JpZ)
+
+### **Sentence comprehension and attention**
+
+**Requirements:**
+
++ English as a native language
+
++ no hearing impairment
+
++ normal or corrected-to-normal vision
+
++ ages: 18-60 years
+
++ headphones
+
++ [Link to experiment (English)](https://www.psytoolkit.org/c/3.2.0/survey?s=HjT9O)
