@@ -125,7 +125,7 @@ Ellermeier, W., **Kattner, F.**, Klippenstein, E., & Marquis-Favre, C. (2018). J
 
 ### **2017**
 
-**Kattner, F.** (2017). Specificity of perceptual learning in an auditory interval categorization task. In K. Ueda, H. Ito, G. B. Remijn, & Y. Nakajima (Eds.), *Fechner Day 2017: Proceedings of the 33rd Annual Meeting of the International Society of Psychophysics* (pp. 119-124). International Society for Psychophysics, Fukuoka, Japan.
+**Kattner, F.** (2017). Specificity of perceptual learning in an auditory interval categorization task. In K. Ueda, H. Ito, G. B. Remijn, & Y. Nakajima (Eds.), [*Fechner Day 2017: Proceedings of the 33rd Annual Meeting of the International Society of Psychophysics*](http://proceedings.fechnerday.com/index.php/proceedings/article/view/587/575) (pp. 119-124). International Society for Psychophysics, Fukuoka, Japan.
 
 Ellermeier, W., **Kattner, F.**, Ueda, K., & Nakajima, Y. (2017). Irrelevant sound effects with locally time-reversed speech. In K. Ueda, H. Ito, G. B. Remijn, & Y. Nakajima (Eds.), [*Fechner Day 2017: Proceedings of the 33rd Annual Meeting of the International Society of Psychophysics*](http://proceedings.fechnerday.com/index.php/proceedings/article/view/587/575) (pp. 42-47). International Society for Psychophysics, Fukuoka, Japan.
 
@@ -141,7 +141,7 @@ Ueda, K., Nakajima, Y., Tamura, S., Shichida, A., Ellermeier, W., **Kattner, F.*
 
 **Kattner, F.** & Green, C. S. (2016). Stimulus specificity of intradimensional and extradimensional transfer effects in associative learning. In J. Funke, J. Rummel, & A. Voss (Eds), [*Abstracts of the 58th Conference of Experimental Psychologists*](https://www.psychologie.uni-heidelberg.de/ae/allg_en/mitarb/jf/Funke%20Rummel%20Voss%202016%20Teap%20abstracts.pdf) (pp. 152-153). 21-23 March 2016, Heidelberg, Germany.
 
-Ueda, K., Nakajima, Y., Ellermeier, W., & **Kattner, F.** (2016). A multilingual comparison of intelligibility in locally time-reversed speech. *Proceedings of the Auditory Research Meeting, 46*(3), 181-186.
+Ueda, K., Nakajima, Y., Ellermeier, W., & **Kattner, F.** (2016). [A multilingual comparison of intelligibility in locally time-reversed speech](img/Ueda_ASJ_ARM_May_2016_Manus.pdf). *Proceedings of the Auditory Research Meeting, 46*(3), 181-186.
 
 ### **2015**
 
@@ -167,7 +167,7 @@ Birkenbusch, J. & **Kattner, F.** (2013). Pre-training performance affects confi
 
 **Kattner, F.** (2012). Does evaluative conditioning occur with negative CS-US contingencies? In A. Bröder, E. Erdfelder, B. E. Hilbig, T. Meiser, R. F. Pohl, & D. Stahlberg (Eds.), *Abstracts of the 54. Tagung experimentell arbeitender Psychologen* (pp. 64-65). Lengerich: Pabst.
 
-Ellermeier, W., **Kattner, F.**, Ueda, K., Doumoto, K., & Nakajima, Y. (2012). Effects of noise-vocoded speech in the irrelevant-sound paradigm. Paper presented at *38. Jahrestagung für Akustik – DAGA 2012* (p. 336). Galrev: Berlin.
+Ellermeier, W., **Kattner, F.**, Ueda, K., Doumoto, K., & Nakajima, Y. (2012). Effects of noise-vocoded speech in the irrelevant-sound paradigm. [Paper presented at *38. Jahrestagung für Akustik – DAGA 2012* (p. 336)](http://pub.dega-akustik.de/DAGA_2012/data/articles/000421.pdf). Galrev: Berlin.
 
 ### **2011**
 
@@ -177,7 +177,7 @@ Ellermeier, W., **Kattner, F.**, Kurtze, L., Roos, M., Seeber, S., & Bös, J. (2
 
 Birkenbusch, J. & **Kattner, F.** (2011). Stimulus properties in contingency learning: The auditory scale illusion produces a negative patterning advantage. In K. Bittrich, S. Blankenberger, & Lukas, J. (eds.), [*53. Tagung experimentell arbeitender Psychologen(https://www.psycharchives.org/bitstream/20.500.12034/682/1/Programmheft_TeaP_2011_Halle.pdf*](https://www.psycharchives.org/bitstream/20.500.12034/682/1/Programmheft_TeaP_2011_Halle.pdf) (p. 209). Lengerich: Pabst.
 
-Ellermeier, W., **Kattner, F.**, Kurtze, L., Roos, M., Seeber, S., & Bös, J. (2011). Psychoakustische Analyse der Betriebsgeräusche von Photovoltaik-Wechselrichtern. Paper presented at *37. Deutsche Jahrestagung für Akustik – DAGA 2011* (p. 171). Berlin: Galrev.
+Ellermeier, W., **Kattner, F.**, Kurtze, L., Roos, M., Seeber, S., & Bös, J. (2011). Psychoakustische Analyse der Betriebsgeräusche von Photovoltaik-Wechselrichtern. [Paper presented at *37. Deutsche Jahrestagung für Akustik – DAGA 2011* (p. 171)](https://pub.dega-akustik.de/DAGA_2011/data/articles/000396.pdf). Berlin: Galrev.
 
 ### **2010**
 
