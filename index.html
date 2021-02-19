@@ -351,8 +351,9 @@ img {
 </div>
 </div>
 <p><br></p>
-<div id="research-interests" class="section level3">
-<h3><strong>Research Interests</strong></h3>
+<div>
+<div class="col-sm-5">
+<h3 id="research-interests"><strong>Research Interests</strong></h3>
 <ul>
 <li><p><a href="https://mfkattner.github.io/fkattner/research.html#auditory-cognition"><strong>Auditory Perception and Cognition</strong></a></p>
 <ul>
@@ -376,74 +377,15 @@ img {
 <li><p>Psychometric Functions</p></li>
 </ul></li>
 </ul>
-<script LANGUAGE="JavaScript">
-function GetCookie (name) {  
-var arg = name + "=";  
-var alen = arg.length;  
-var clen = document.cookie.length;  
-var i = 0;  
-while (i < clen) {
-var j = i + alen;    
-if (document.cookie.substring(i, j) == arg)      
-return getCookieVal (j);    
-i = document.cookie.indexOf(" ", i) + 1;    
-if (i == 0) break;   
-}  
-return null;
-}
-function SetCookie (name, value) {  
-var argv = SetCookie.arguments;  
-var argc = SetCookie.arguments.length;  
-var expires = (argc > 2) ? argv[2] : null;  
-var path = (argc > 3) ? argv[3] : null;  
-var domain = (argc > 4) ? argv[4] : null;  
-var secure = (argc > 5) ? argv[5] : false;  
-document.cookie = name + "=" + escape (value) + 
-((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
-((path == null) ? "" : ("; path=" + path)) +  
-((domain == null) ? "" : ("; domain=" + domain)) +    
-((secure == true) ? "; secure" : "");
-}
-function DeleteCookie (name) {  
-var exp = new Date();  
-exp.setTime (exp.getTime() - 1);   
-var cval = GetCookie (name);  
-document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-}
-var expDays = 30;
-var exp = new Date(); 
-exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
-function amt(){
-var count = GetCookie('count')
-if(count == null) {
-SetCookie('count','1')
-return 1
-}
-else {
-var newcount = parseInt(count) + 1;
-DeleteCookie('count')
-SetCookie('count',newcount,exp)
-return count
-   }
-}
-function getCookieVal(offset) {
-var endstr = document.cookie.indexOf (";", offset);
-if (endstr == -1)
-endstr = document.cookie.length;
-return unescape(document.cookie.substring(offset, endstr));
-}
-// End -->
-</script>
-<div class="col-sm-8">
-
 </div>
-<div class="col-sm-3">
-<script LANGUAGE="JavaScript">
-<!-- Begin
-document.write("Website revisited: " + amt() + " times")
-// End -->
-</script>
-<p><input type="button" onclick="DeleteCookie('count')" value="Reset Cookies"/></p>
+<div class="col-sm-7">
+<h3 id="key-publications"><strong>Key Publications</strong></h3>
+<p>Kattner, F. &amp; Ellermeier, W. (2020). Distraction at the cocktail party: Attenuation of the irrelevant speech effect after a training of auditory selective attention. <em>Journal of Experimental Psychology: Human Perception and Performance, 46</em>(1), 10-20. doi: 10.1037/xhp0000695</p>
+<p>Kattner, F., Samaan, L., &amp; Schubert, T. (2019). Cross-modal transfer after auditory task-switching training. <em>Memory &amp; Cognition, 47</em>(5), 1044-1061. doi: 10.3758/s13421-019-00911-x</p>
+<p>Kattner, F., Cochrane, A., &amp; Green, C. S. (2017). Trial-dependent psychometric functions accounting for perceptual learning in 2-AFC discrimination tasks. <em>Journal of Vision, 17</em>(11), 3. doi: 10.1167/17.11.3</p>
+<p>Kattner, F. (2015). Transfer of absolute and relative predictiveness in human contingency learning. <em>Learning &amp; Behavior, 43</em>, 32-43. doi: 10.3758/s13420-014-0159-5</p>
+<p>Kattner, F. &amp; Ellermeier, W. (2014). Irrelevant speech does not interfere with serial recall in early blind listeners. <em>Quarterly Journal of Experimental Psychology, 67</em>(11), 2207-2217. doi: 10.1080/17470218.2014.910537</p>
+<p>Kattner, F. (2012). Revisiting the relation between contingency awareness and attention: Evaluative conditioning relies on a contingency focus. <em>Cognition and Emotion, 26</em>(1), 166-175. doi: 10.1080/02699931.2011.565036</p>
 </div>
 </div>
 
