@@ -13,7 +13,7 @@
 
 <title>Team</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -278,7 +279,9 @@ $(document).ready(function () {
 
 <style>
 img {
-  border-radius: 50%;
+  border-radius: 10px;
+  height: auto;
+  opacity: 0.8;
 }
 </style>
 <div id="principal-investigator" class="section level2">
@@ -297,7 +300,7 @@ img {
 
 </td>
 <td>
-<img src='img/foto_fk_415x415.jpg'  style="width:200px;height:200px;" onmouseover="this.src='img/foto_fk_415x415_pix.jpg'" onmouseout="this.src='img/foto_fk_415x415.jpg'">
+<img src='img/foto_fk_415x415.jpg'  style="width:150px;height:150px;" onmouseover="this.src='img/foto_fk_415x415_pix.jpg'" onmouseout="this.src='img/foto_fk_415x415.jpg'">
 </td>
 </tr>
 </table>
@@ -327,7 +330,7 @@ CV
 </p>
 </td>
 <td>
-<img src='https://www.health-and-medical-university.de/fileadmin/_processed_/f/c/csm_Samuel-Conrad_f55ff85ff7.png' style="width:200px">
+<img src='https://www.health-and-medical-university.de/assets/images/d/Samuel%20Conrad-b06037d9.jpg' style="height:150px">
 </td>
 </tr>
 </table>
@@ -345,7 +348,7 @@ CV
 <a href="https://www.kog.psychologie.tu-darmstadt.de/angewandte_kognitionspsychologie_kog/team_kog/team_kog_details_72576.en.jsp">Website</a>
 </td>
 <td>
-<img src='https://www.kog.psychologie.tu-darmstadt.de/media/angewandtekognitionspsychologie/portraits/Mitra_Hassanzade_415x0.jpg' style="width:200px">
+<img src='https://www.kog.psychologie.tu-darmstadt.de/media/angewandtekognitionspsychologie/portraits/Mitra_Hassanzade_415x0.jpg' style="height:150px">
 </td>
 </tr>
 </table>
@@ -398,7 +401,7 @@ Clausen, A., Fenner, B., Kennett, S., &amp; Cooper, N. R. (2014, September). Thr
 </p>
 </td>
 <td>
-<img src='https://www.kog.psychologie.tu-darmstadt.de/media/angewandtekognitionspsychologie/portraits/IMG_4470_415x0.jpg' style="width:200px">
+<img src='https://www.kog.psychologie.tu-darmstadt.de/media/angewandtekognitionspsychologie/portraits/IMG_4470_415x0.jpg' style="height:150px">
 </td>
 </tr>
 </table>
