@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -285,6 +286,7 @@ $(document).ready(function () {
 <p>Ellermeier, W., <strong>Kattner, F.</strong>, &amp; Raum, A. (2022). Correction to: Cross‑modal commutativity of magnitude productions. <em>Attention, Perception, &amp; Psychophysics, 84</em>, 322-323. doi: <a href="https://link.springer.com/content/pdf/10.3758/s13414-021-02385-z.pdf">10.3758/s13414-021-02385-z</a></p>
 <p><strong>Kattner, F.</strong> &amp; Bryce, D. (2022). Attentional control and metacognitive monitoring of the effects of different types of task-irrelevant sound on serial recall. <em>Journal of Experimental Psychology: Human Perception and Performance, 48</em>(2), 139–158. doi: <a href="https://doi.apa.org/record/2022-17113-001">10.1037/xhp0000982</a></p>
 <p><strong>Kattner, F.</strong>, Hanl, S., Paul, L., &amp; Ellermeier, W. (2022). Task-specific auditory distraction in serial recall and mental arithmetic. <em>Memory &amp; Cognition</em>. doi: <a href="https://rdcu.be/cXALA">10.3758/s13421-022-01363-6</a></p>
+<p><strong>Kattner, F.</strong> &amp; Gast, A. (2022). Scaling preferences using probabilistic choice models: Is there a ratio-scale representation of subjective liking? <em>Psychological Research</em>.</p>
 <p><strong>Kattner, F.</strong>, Richardson, B. H., &amp; Marsh, J. E. (2022). The benefit of foreknowledge in auditory distraction depends on the intelligibility of pre-exposed speech. <em>Auditory Perception &amp; Cognition, 5</em>(3-4), 151-168. doi: <a href="https://www.tandfonline.com/eprint/TVMG7REF2URCMUZZBNCQ/full?target=10.1080/25742442.2022.2089525">10.1080/25742442.2022.2089525</a> <!--https://doi.org/10.1080/25742442.2022.2089525--></p>
 <p>Marsh, J. E., <strong>Kattner, F.</strong>, &amp; Ruhnau, P. (2022). Research collection: On theoretical advancement in auditory distraction research. <em>Auditory Perception &amp; Cognition, 4</em>(3-4), 133-138. doi: <a href="https://doi.org/10.1080/25742442.2022.2036524">10.1080/25742442.2022.2036524</a></p>
 </div>
