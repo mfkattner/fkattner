@@ -13,7 +13,7 @@
 
 <title>CV</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -284,15 +285,15 @@ $(document).ready(function () {
 <col style="width:80%">
 <tr>
 <td>
-<strong>since 04.2021</strong>
+<strong>since 04/2021</strong>
 </td>
 <td>
-Professor (<a href="https://www.health-and-medical-university.de/universitaet/unser-team/team-fakultaet-gesundheit/professoren/prof-dr-folrian-kattner/">Allgemeine Psychologie</a>), Faculty of Health, Health and Medical University Potsdam
+Professor (<a href="https://www.health-and-medical-university.de/universitaet/unser-team/team-fakultaet-gesundheit/professoren/prof-dr-folrian-kattner/">Allgemeine Psychologie</a>), Health and Medical University, Potsdam
 </td>
 </tr>
 <tr>
 <td>
-<strong>11.2020 - 03.2021</strong>
+<strong>11/2020 - 03/2021</strong>
 </td>
 <td>
 Principal Investigator (<a href="https://gepris.dfg.de/gepris/projekt/421966099">DFG grant</a>), Applied Cognitive Psychology Lab, Technical University of Darmstadt
@@ -300,7 +301,7 @@ Principal Investigator (<a href="https://gepris.dfg.de/gepris/projekt/421966099"
 </tr>
 <tr>
 <td>
-<strong>04.2016 - 10.2020</strong>
+<strong>04/2016 - 10/2020</strong>
 </td>
 <td>
 Postdoctoral Researcher and Lecturer, <a href="https://www.kog.psychologie.tu-darmstadt.de/start_1/startseite.en.jsp">Applied Cognitive Psychology Lab</a>, Technical University of Darmstadt
@@ -308,7 +309,7 @@ Postdoctoral Researcher and Lecturer, <a href="https://www.kog.psychologie.tu-da
 </tr>
 <tr>
 <td>
-<strong>10.2018 - 09.2019</strong>
+<strong>10/2018 - 09/2019</strong>
 </td>
 <td>
 Visting Professor of General Psychology (Vertretungsprofessur für Allgemeine Psychologie), University of Hamburg
@@ -316,7 +317,7 @@ Visting Professor of General Psychology (Vertretungsprofessur für Allgemeine Ps
 </tr>
 <tr>
 <td>
-<strong>10.2017 - 03.2018</strong>
+<strong>10/2017 - 03/2018</strong>
 </td>
 <td>
 Visiting Professor of General Psychology (Vertretungsprofessur für Allgemeine Psychologie), University of Kassel
@@ -324,7 +325,7 @@ Visiting Professor of General Psychology (Vertretungsprofessur für Allgemeine P
 </tr>
 <tr>
 <td>
-<strong>04.2014 - 03.2016</strong>
+<strong>04/2014 - 03/2016</strong>
 </td>
 <td>
 Postdoctoral Research Scholar, <a href="https://greenlab.psych.wisc.edu/">Learning and Transfer Lab</a> (C. Shawn Green), University of Wisconsin-Madison
@@ -332,7 +333,7 @@ Postdoctoral Research Scholar, <a href="https://greenlab.psych.wisc.edu/">Learni
 </tr>
 <tr>
 <td>
-<strong>06.2011 - 03.2014</strong>
+<strong>06/2011 - 03/2014</strong>
 </td>
 <td>
 Postdoctoral Researcher and Lecturer, Applied Cognitive Psychology Lab (Prof. Wolfgang Ellermeier), Technical University of Darmstadt
@@ -340,7 +341,7 @@ Postdoctoral Researcher and Lecturer, Applied Cognitive Psychology Lab (Prof. W
 </tr>
 <tr>
 <td>
-<strong>11.2007 - 06.2011</strong>
+<strong>11/2007 - 06/2011</strong>
 </td>
 <td>
 Doctoral student, Applied Cognitive Psychology Lab (Prof. Wolfgang Ellermeier), Technical University of Darmstadt
@@ -453,7 +454,7 @@ Award for “special achievements in academic teaching”, Vereinigung von Freun
 <p><strong>Associate Editor</strong> for <a href="https://www.frontiersin.org/journals/psychology/sections/cognition#">Frontiers in Psychology: Cognition</a> (since 2021)</p>
 <p><strong>Review Editor</strong> for <a href="https://www.frontiersin.org/journals/aging-neuroscience">Frontiers in Aging Neuroscience</a></p>
 <p><strong>Guest Associate Editor</strong> for <a href="https://www.tandfonline.com/toc/rpac20/current">Auditory Perception &amp; Cognition</a> (Special Issue: <a href="https://doi.org/10.1080/25742442.2022.2036524"><em>On Theoretical Advancement in Auditory Distraction Research</em></a>)</p>
-<p><strong>Reviewing (Journals):</strong> Acta Psychologica; Auditory Perception and Cognition; Behavioural Processes; Brain Sciences; Cognition and Emotion; Computers in Human Behavior; Frontiers in Aging Neuroscience; Frontiers in Psychiatry; Frontiers in Psychology: Auditory Cognitive Neuroscience; Frontiers in Psychology: Cognition; Heliyon; Journal of Cognitive Psychology; Journal of Experimental Psychology: General; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of Experimental Social Psychology; Journal of Mathematical Psychology; Journal of Personality; Learning and Behavior; Learning and Motivation; PLoS ONE; Psychological Research; Psychology of Music; Psychoneuroendocrinology; Social Cognition; Social Psychological and Personality Science; Quarterly Journal of Experimental Psychology</p>
+<p><strong>Reviewing (Journals):</strong> Acta Psychologica; Auditory Perception and Cognition; Behavioural Processes; Brain Sciences; Cognition and Emotion; Collabra: Psychology; Computers in Human Behavior; Frontiers in Aging Neuroscience; Frontiers in Psychiatry; Frontiers in Psychology: Auditory Cognitive Neuroscience; Frontiers in Psychology: Cognition; Heliyon; Journal of Cognitive Psychology; Journal of Experimental Psychology: General; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of Experimental Social Psychology; Journal of Mathematical Psychology; Journal of Personality; Learning and Behavior; Learning and Motivation; PLoS ONE; Psychological Research; Psychology of Music; Psychoneuroendocrinology; Social Cognition; Social Psychological and Personality Science; Quarterly Journal of Experimental Psychology</p>
 <p><strong>Reviewing (Grants):</strong> Deutsche Forschungsgemeinschaft (DFG); National Science Centre Poland (NCN)</p>
 </div>
 
