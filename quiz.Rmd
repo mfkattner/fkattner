@@ -1,0 +1,15 @@
+---
+title: "Quiz"
+output: 
+  html_document:
+    theme: darkly
+---
+
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/XKaEFqUUWB8JPo6DekaDy/respond" width="800px" height="600px"></iframe>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/WRrundVO6jrqVxWJlCN8j/respond" width="800px" height="600px"></iframe>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/gXcc8HsTGjGnaElYU3psq/respond" width="800px" height="600px"></iframe>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/Rh3GBbDHlM60L0nUuxRo1/respond" width="800px" height="600px"></iframe>

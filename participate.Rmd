@@ -1,0 +1,48 @@
+---
+title: "Participate"
+output: 
+  html_document:
+    theme: yeti
+---
+
+
+### *... in one of our current online studies:*
+
+<br>
+
+### **14.10.2022 - Gedächtnis für Wortlisten (Deutsch)**
+
+In dieser Studie soll das Kurzzeitgedächtnis für Wortlisten untersucht werden. Dazu werden wir auf dem Bildschirm Wörter präsentieren, die Sie sich jeweils genau einprägen. Währenddessen hören Sie über Kopfhörer verschiedene Geräusche. Nach einer Weile werden wir dann prüfen, an welche Worte Sie sich noch erinnern (und an welche nicht). Die Teilnahme wird etwa 45 Minuten dauern. Bitte sorgen Sie dafür, dass Sie während dieser Zeit nicht gestört werden. Außerdem ist es wichtig, dass Sie während der Aufgabe Kopfhörer nutzen (idealerweise Ohren-umschließende), damit die Geräusche richtig wiedergebgeben werden können. Wir empfehlen für diese Online-Studie Google Chrome oder Mozilla Firefox als Browser. Mit dem Browser Safari läuft das Experment leider nicht stabil.
+Viel Spaß!
+
+
+**Anforderungen:**
+
++ Desktop oder Laptop Computer
+
++ Gute Kopfhörer (Ohren-umschließend)
+
++ Normales Hörvermögen
+
++ Volljährigkeit
+
++ [Link zum Experiment](https://www.psytoolkit.org/c/3.4.0/survey?s=hCbTK)
+
+<br>
+
+<!--### **01.01.2022 - Multitasking Study (English)**
+
+In this study, we investigate to what extent sounds influence learning and mental activity. After adjusting the volume to a level that is optimal for you, all sounds that you will hear through your headphones will be below a critical level and thus will not affect your health.
+
+**Requirements:**
+
++ desktop or laptop computer
+
++ good headphones and a real keyboard
+
++ no hearing impairment
+
++ minimum age: 18 years
+
++ [Link to Experiment](https://www.psytoolkit.org/c/3.3.2/survey?s=wPjPq)
+-->

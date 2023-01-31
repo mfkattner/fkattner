@@ -1,0 +1,148 @@
+---
+title: "Teaching"
+output: 
+  html_document:
+    theme: yeti
+---
+
+## **Courses and Lectures** {.tabset}
+
+<!--
+### *HMU Potsdam*
+-->
+
+### *HMU Potsdam*
+
+- Vorlesung *Allgemeine Psychologie II* [Sommer 2022, Winter 2022/23] 
+- Seminar *Allgemeine Psychologie II* [Sommer 2022, Winter 2022/23] <!--[Übungsblätter](pw1.html)-->
+- Vorlesung *Allgemeine Psychologie I* [Winter 2021/22, Sommer 2022] <!--[lecture slides](pw.html)-->
+- Seminar *Allgemeine Psychologie I* [Winter 2021/22, Sommer 2022]
+- *Forschungsorientiertes, experimentelles Praktikum* [Winter 2021/22, Sommer 2022, Winter 2022/23]
+- Vorlesung + Seminar *Medizinische Psychologie und Soziologie I* (Wahrnehmung, Emotion, Lernen/Konditionierung/Gedächtnis, Soziologie) [Sommer 2021]
+- Vorlesung *Medizinische Psychologie und Soziologie II* (Methodische Grundlagen, Psychologische Testverfahren, Vergleichende Verhaltensforschung) [Sommer 2021]
+- Seminar *Medizinische Psychologie und Soziologie II* (Neuropsychologie) [Sommer 2021]
+
+### *TU Darmstadt*
+
+- *Experimentalpsychologisches Praktikum* [Sommer 2008 – Winter 2020/21]
+- Seminar *Allgemeine Psychologie I* (Wahrnehmung, Aufmerksamkeit, Lernen, Gedächtnis) [Winter 2007/08 – Sommer 2017]
+- Vorlesung *Allgemeine Psychologie II* (Motivation und Emotion) [Winter 2016/17]
+- Übung *Computergestützte Datenanalyse* (Statistik II) [Sommer 2016]
+- Vorlesung *Allgemeine Psychologie II* (Sprache und Denken) [Winter 2012/13] 
+- Seminar *Differenzielle Psychologie* (Persönlichkeitstheorien, Intelligenz) [Winter 2011/12]
+- Programmierkurs *Matlab* (Psychophysics Toolbox) [Winter 2010/11, Sommer 2013]
+- Übung *Allgemeine Psychologie I* (Psychophysik, Simulation von Wahrnehmung und Lernen) [Sommer 2008 – Sommer 2013]
+- Seminar *Kognitive Psychologie* (Modelle der Kognition) (Sommer 2008, Summer 2010)
+- Übung *Kognitive Psychologie* [Sommer 2008]
+    
+### *U Hamburg*
+
+- Seminar *Allgemeine Psychologie I* (Wahrnehmung, Sprache, Denken) [Sommer 2019]
+- Seminar *Auditory attention and working memory* (Wahlbereich, M.Sc. Psychologie) [Sommer 2019]
+- Vorlesung *Allgemeine Psychologie I* (Psychophysik, Wahrnehmung, Aufmerksamkeit) [Winter 2018/19]
+- Übung *Allgemeine Psychologie I* (Methoden der Psychophysik, Simulation perzeptueller Mechanismen) [Winter 2018/19] 
+
+### *U Kassel*
+
+- Vorlesung *Allgemeine Psychologie I* (Psychophysik, Wahrnehmung, Aufmerksamkeit, Gedächtnis) [Winter 2017/18]
+- Vertiefungsseminar *Allgemeine Psychologie I* (Wahrnehmung + Gedächtnis, englischsprachig) [Winter 2017/18]
+- Zusatzseminar *Biologische Psychologie* (Neuronale Plastizität) [Winter 2017/18] Seminar *Recherche, methodenkritisches Lesen und Verfassen empirisch-psychologischer Arbeiten* (Blockveranstaltung) [Winter 2017/18]
+- Vorlesung *Kognition, Bildung, Entwicklung* [Winter 2017/18, Teil “Kognition”] 
+
+### *UW Madison*
+
+- Programming course *Psychophysics Toolbox for Matlab* [Spring 2015, Fall 2014]
+    
+<br>
+
+## **Thesis supervision** {.tabset}
+
+### *2022*
+
+- Florian Hennemann (2022). *Individual differences and the role of inhibitory control in the Irrelevant Speech Effect.* Bachelorarbeit, TU Darmstadt.
+
+### *2021*
+
+- Belen Abdelkader, Monica Cirillo, & Sophie Winter (2021). *Die Reliabilität der individuellen Störbarkeit des Arbeitsgedächtnisses durch irrelevante Sprache und einen auditorischen Devianten*. Bachelorarbeit, TU Darmstadt.
+- Johanna Stumpf (2021). *Die Verarbeitung von emotionalen Stimuli im ikonischen Gedächtnis, Labor vs. Online-Studie*. Bachelorarbeit, TU Darmstadt.
+- Lukas Werthmanns (2021). *Entwicklung eines Online Versuchs zur Messung des Irrelevant Speech Effekts.* Bachelorarbeit, TU Darmstadt.
+- Lena Jacob (2021). *Der Einfluss akustischer Distinktheit und inhibitorischer Kontrolle auf die kognitive Beeinträchtigung durch irrelevante Schalle*. Bachelorarbeit, TU Darmstadt.
+- Marieke Fischer (2021). *Does Task-Irrelevant Emotional Speech Interfere with Serial Recall in Blind and Sighted Listeners?* Bachelorarbeit, TU Darmstadt.
+
+### *2020*
+
+- Abdulhanan Othman & Bashar Shikho (2020) *Perzeptuelles Lernen der Unterscheidung von Tonkomplexen*. Bachelorarbeit, TU Darmstadt.
+- Dina Grinstein (2020). *Mediennutzung in der Corona-Krise Die Rolle von Persönlichkeit und Coping*. Bachelorarbeit, TU Darmstadt.
+- Saskia Westerweller (2020). *Wie evaluative Konditionierung die visuelle Aufmerksamkeit beeinflusst*. Bachelorarbeit, TU Darmstadt.
+-	Linda Paul (2020). *Aufmerksamkeitsablenkung oder mehr? Untersuchung des Irrelevant-Speech-Effekts mit einer komplexen Gedächtnisspannenaufgabe*. Bachelorarbeit, TU Darmstadt.
+- Johanna Schießl (2020). *Training der Arbeitsgedächtniskapazität mit einer dualen “n-back-Aufgabe”: Auswirkungen auf Störschallresilienz und fluide Intelligenz*. Bachelorarbeit, TU Darmstadt.
+- Sophia Pieronczyk & Michael Kaul (2020). *Der Einfluss eines Aufmerksamkeitstrainings auf den Changing-State-Effekt und die fluide Intelligenz*. Bachelorarbeit, TU Darmstadt.
+- Katharina Behler (2020). *Hilfesuchverhalten und Depressivität von Schülerinnen und Schülern: Evaluation eines Suizidpräventionstrainings des Projektes SAVE*. Bachelorarbeit, TU Darmstadt.
+- Zarina Catar (2020). *Bilingualism and cognitive control: Differences in task switching and the auditory distraction*. Bachelorarbeit, TU Darmstadt.
+- Yannik Mannet (2020). *Evaluation einer Lehrkräftefortbildung zur Suizidprävention. Können Lehrkräfte ihre Handlungskompetenz im Umgang mit suizidalen Schülerinnen und Schülern verbessern?* Bachelorarbeit, TU Darmstadt.
+- Sarah Hanl (2020). *Aufmerksamkeitsorientierung vs. Duplex-Mechanismus: Eine neue Methode zur Untersuchung des Irrelevant Speech Effekts*. Masterarbeit, TU Darmstadt.
+
+### *2019*
+
+- Hanna Meinhardt (2019). *Einfluss von Hintergrundschall und musikalischer Expertise auf das verbale und musikalische Kurzzeitgedächtnis*. Bachelorarbeit, Universität Hamburg.
+- Dustin Fleckenstein (2019). *Effects of evaluative conditioning on early sensory processing*. Masterarbeit, TU Darmstadt
+- Karla Salazar (2019). *Effekte evaluativer Konditionierung auf das ikonische Gedächtnis*. Masterarbeit, TU Darmstadt.
+- Celine Saul (2019). *Elektrophysiologische Korrelate evaluativer Konditionierung*. Bachelorarbeit, TU Darmstadt.
+- Michael Kreis (2019). *Manche mögens laut: Eine psychophysiologische Untersuchung zur Lästigkeit von Verkehrslärm unter Berücksichtigung interindividueller Unterschiede*. Masterarbeit, TU Darmstadt
+- Anika Raum (2019). *Cross-modale Kommutativität der Größenherstellungen von Lautstärke und Helligkeit*. Bachelorarbeit, TU Darmstadt.
+
+### *2018* 	
+
+- Stefan Coels (2018). *Training des verbalen Kurzzeitgedächtnisses: Hilft ein dichotisches Gedächtnistraining gegen die störende Wirkung irrelevanter Sprache?* Bachelorarbeit, TU Darmstadt.
+- Ewald Klippenstein (2018). *Lästigkeitsbewertung und physiologische Reaktion auf Verkehrslärm bei Bearbeitung einer Aufmerksamkeitsaufgabe*. Masterarbeit, TU Darmstadt.
+- Corinne Orlemann (2018). *Emotional working memory: Processing of affective intonations in the n-back paradigm*. Bachelorarbeit, TU Darmstadt.
+- Larissa Samaan (2018). *Effects of an auditory task switching training on cognitive functions*. Bachelorarbeit, TU Darmstadt.
+- Tim Schmidt (2018). *Faktoren des Kindchenschemas: Gewichtung von Merkmalen in der Gesichtswahrnehmung*. Bachelorarbeit, TU Darmstadt.
+- Babette Dürrenberg & Andrea Elzenbeck (M.Sc. Psych.). *Affektive Bewertung und Psychoakustik von Spielzeuggeräuschen*.
+
+### *2017* 
+
+- Maria Hernando (2017). *Development and Effectiveness Evaluation of a Human Machine Interface for Start-Stop Coasting*. Masterarbeit, TU Darmstadt.
+- Sarah Hanl (2017). *Beeinträchtigung der Gedächtnisleistung durch emotional gefärbte Hintergrundsprache*. Bachelorarbeit, TU Darmstadt.
+- Karla Salazar (2017). *Welche Eigenschaften von Sprache beeinträchtigen die Erinnerungsleistung? Ein Experiment mit aufgabenirrelevanten, lokal-invertierten Schallen*. Bachelorarbeit, TU Darmstadt.
+- Samuel Zeuch (2017). *Detektion wahrer, falscher und vorgetäuschter Intentionen im Mock-Crime-Paradigma anhand des autobiographischen, impliziten Assoziationstests*. Masterarbeit, TU Darmstadt.
+- Annika Schupp (2017). *Effekte evaluativer Konditionierung auf das ikonische Gedächtnis*. Bachelorarbeit, TU Darmstadt.
+- Sina Zimmermann (2017). *Einfluss der Aufgabenstellung auf die Transferleistung beim Kategorienlernen*.
+
+### *2016*
+
+- Stephan Daebler (2016). *Verständlichkeit von zeitlich segmentierter und rückwaerts dargebotener Sprache*. Bachelorarbeit, TU Darmstadt.
+- Lena Faust (2016). *Der Einfluss von evaluativer Konditionierung auf die visuelle Aufmerksamkeit: Effekte auf das “Useful Field of View”*. Bachelorarbeit, TU Darmstadt.
+- Kyra Wange (2016). *Beeinflusst evaluative Konditionierung die visuelle Aufmerksamkeit?* Bachelorarbeit, TU Darmstadt.
+
+### *2015*
+
+- Sebastian Warda (2015). *Therapieevaluation der multimodalen Psychotherapie für Tinnituspatienten der Tagesklinik Ulmenhof*. Masterarbeit, TU Darmstadt.
+ 
+### *2014* 	
+
+- Hazar Haj (2014). *Hysteresis in magnitude production of pitch intervals*. Bachelorarbeit, TU Darmstadt.
+- Sebastian Warda (2014). *Lateralisierung dichotischer Verarbeitung von Sprache, komplexen Tönen und Melodie*. Bachelorarbeit, TU Darmstadt.
+- Payden White (2014). *Blocking effects present in evaluative conditioning through automatic association formation*. Biology – Section 313, University of Wisconsin-Madison.
+- Samuel Zeuch (2014.). *Kontextabhängige Entscheidungsfehler beim prädiktiven Lernen*. Bachelorarbeit, TU Darmstadt.
+
+### *2013*
+
+- Josephine Berger & Christopher-John Gawe (2013). *Auditive Verarbeitung irrelevanter Sprache bei blinden und sehenden Menschen*. Bachelorarbeit, TU Darmstadt.
+-	Sabrina Köhler (2013). *Evaluatives Konditionieren: Sind gelernte Assoziationen wirklich löschungsresistent?* Bachelorarbeit, TU Darmstadt.
+
+### *2012*
+
+- Corinna Lohrey (2012.). *Lateralitätseffekte bei der Verarbeitung irrelevanter Sprache*. Bachelorarbeit, TU Darmstadt.
+- Anna-Livia Meimbresse (2012). *Ist Evaluatives Konditionieren wirklich löschungsresistent? Der Einfluss von Baseline-Ratings*. Bachelorarbeit, TU Darmstadt.
+- Nikolas Suchhardt (2012). *Contiguity and contingency awareness in evaluative delay- and trace conditioning*. Diplomarbeit (Biologie), TU Darmstadt.
+
+### *2011*
+
+- Jana Birkenbusch (2011). *The influence of stimulus properties in contingency learning*. Bachelorarbeit, TU Darmstadt.
+- Rabia Tittus (2011). *Subliminales Priming evaluativer Reaktionen und der Einfluss auf die Wiedererkennungsleistung*. Bachelorarbeit, TU Darmstadt.
+- Christian Wieser (2011). *Störung des Arbeitsgedächtnisses durch emotional intonierte chinesische Sprache*. Bachelorarbeit, TU Darmstadt.
+
+### *2010*
+
+- Fabian Nguyen (2010). *Evaluative Konditionierung durch computervermittelte Medien*. Bachelorarbeit, TU Darmstadt.
